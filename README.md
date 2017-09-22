@@ -8,11 +8,8 @@ First the OpenDespatch application will look for any “.pvx” extension files 
 
 There are different guides available for assistance in different tasks regarding OpenDespatch.
 
-1. How to download the code and set up on your local machine:
-http://wms.peoplevox.net/app/common/downloads/OpenDespatchClientDownloadInstructionsv2.pdf
+1. How to download the code and set up on your local machine: [download](http://wms.peoplevox.net/app/common/downloads/OpenDespatchClientDownloadInstructionsv2.pdf)
 
-2. How to become a contributor.
-http://wms.peoplevox.net/app/common/downloads/OpenDespatch_HowtoContribute.pdf
+2. How to become a contributor: [download](http://wms.peoplevox.net/app/common/downloads/OpenDespatch_HowtoContribute.pdf)
 
-3. Understanding the software architecture of the asp.net project.
-http://wms.peoplevox.net/app/common/downloads/OpenDespatchArchitecture.pdf
+3. Understanding the software architecture of the asp.net project: [download](http://wms.peoplevox.net/app/common/downloads/OpenDespatchArchitecture.pdf)
