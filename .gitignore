@@ -1,0 +1,10 @@
+# git ignore file
+/OpenDespatch.Entities/bin/Debug
+/OpenDespatch.Entities/obj/Debug
+/OpenDespatch.RoyalMail/bin/Debug
+/OpenDespatch.RoyalMail/obj/Debug
+/OpenDespatch.WindowsApp/bin/Debug
+/OpenDespatch.WindowsApp/obj/x86/Debug
+/*.suo
+
+/*.suo

@@ -1,0 +1,1 @@
+﻿{SalesOrderNumber}	{CustomerName}	{ShippingAddressLine1}	{ShippingAddressLine2}	{ShippingAddressTownCity}	{ShippingAddressRegion}	{ShippingAddressPostCode}	{CustomerPhone}	{ShippingAddressCode}	{ShippingAddressCodeNumber}	{ServiceTypeCode}	{CustomerMobile}	{CustomerEmail}	{CustomerName}	{DespatchNumber}

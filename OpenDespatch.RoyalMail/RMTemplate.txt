@@ -1,0 +1,2 @@
+﻿ADD "PeopleVox"
+"1","{ServiceTypeCode}","{CustomerName}","{ShippingAddressLine1}","{ShippingAddressLine2}","{ShippingAddressPostCode}","{ShippingAddressTownCity}","{ShippingAddressCode}","{SalesOrderNumber}","{NumberOfPackages}","{TotalWeight}","{PackageName}"

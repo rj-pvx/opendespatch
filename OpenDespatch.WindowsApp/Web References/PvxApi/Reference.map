@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://peoplevox.net/appb/resources/integrationservicev4.asmx?wsdl" filename="integrationservicev4.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://peoplevox.net/appb/resources/integrationservicev4.asmx?disco" filename="integrationservicev4.disco" />
+  </Results>
+</DiscoveryClientResultsFile>
