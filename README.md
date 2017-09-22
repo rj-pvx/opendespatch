@@ -1,4 +1,6 @@
-OpenDespatch application will interact with the carrier applications / APIs to complete the despatch process initiated by Peoplevox system.
+# Open Despatch 
+
+Application interacts with the carrier applications / APIs to complete the despatch process initiated by Peoplevox system.
 
 Following a despatch in the PeopleVox Web application, a file will be downloaded to a folder on the local machine (by default the download folder). This would be an XML file with extension .pvx containing all necessary information to complete the despatch at pack bench.
 
