@@ -13,3 +13,5 @@ There are different guides available for assistance in different tasks regarding
 2. How to become a contributor: [download](http://wms.peoplevox.net/app/common/downloads/OpenDespatch_HowtoContribute.pdf)
 
 3. Understanding the software architecture of the asp.net project: [download](http://wms.peoplevox.net/app/common/downloads/OpenDespatchArchitecture.pdf)
+
+5. RJ aacount
